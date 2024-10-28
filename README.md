@@ -6,3 +6,7 @@
 
 // this application uses the Tailwind CSS framework for styling
 // Query the Pixabay API to get images based on a search term and display them in the UI with pagination generated dynamically based on the number of results
+
+
+key terms
+pagination generate - javascript - API - tailwindcss
